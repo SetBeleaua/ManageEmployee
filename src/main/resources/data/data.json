@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Ion Popescu",
+    "email": "ion.popescu@example.com",
+    "phone": "0722000001",
+    "address": "Strada Primaverii, nr. 1",
+    "city": "Bucuresti",
+    "state": "Bucuresti",
+    "position": "Manager"
+  },
+  {
+    "id": 2,
+    "name": "Maria Ionescu",
+    "email": "maria.ionescu@example.com",
+    "phone": "0722000002",
+    "address": "Strada Primaverii, nr. 2",
+    "city": "Bucuresti",
+    "state": "Bucuresti",
+    "position": "Developer"
+  },
+  {
+    "id": 3,
+    "name": "Vasile Dumitru",
+    "email": "vasile.dumitru@example.com",
+    "phone": "0722000003",
+    "address": "Strada Primaverii, nr. 3",
+    "city": "Bucuresti",
+    "state": "Bucuresti",
+    "position": "Tester"
+  },
+  {
+    "id": 4,
+    "name": "Elena Vasilescu",
+    "email": "elena.vasilescu@example.com",
+    "phone": "0722000004",
+    "address": "Strada Primaverii, nr. 4",
+    "city": "Bucuresti",
+    "state": "Bucuresti",
+    "position": "HR"
+  },
+  {
+    "id": 5,
+    "name": "George Enescu",
+    "email": "george.enescu@example.com",
+    "phone": "0722000005",
+    "address": "Strada Primaverii, nr. 5",
+    "city": "Bucuresti",
+    "state": "Bucuresti",
+    "position": "Developer"
+  },
+  {
+    "id": 6,
+    "name": "Ana Pop",
+    "email": "ana.pop@example.com",
+    "phone": "0722000006",
+    "address": "Strada Primaverii, nr. 6",
+    "city": "Bucuresti",
+    "state": "Bucuresti",
+    "position": "Tester"
+  },
+  {
+    "id": 7,
+    "name": "Mihai Eminescu",
+    "email": "mihai.eminescu@example.com",
+    "phone": "0722000007",
+    "address": "Strada Primaverii, nr. 7",
+    "city": "Bucuresti",
+    "state": "Bucuresti",
+    "position": "Manager"
+  },
+  {
+    "id": 8,
+    "name": "Ioana Radu",
+    "email": "ioana.radu@example.com",
+    "phone": "0722000008",
+    "address": "Strada Primaverii, nr. 8",
+    "city": "Bucuresti",
+    "state": "Bucuresti",
+    "position": "HR"
+  },
+  {
+    "id": 9,
+    "name": "Radu Gheorghe",
+    "email": "radu.gheorghe@example.com",
+    "phone": "0722000009",
+    "address": "Strada Primaverii, nr. 9",
+    "city": "Bucuresti",
+    "state": "Bucuresti",
+    "position": "Developer"
+  },
+  {
+    "id": 10,
+    "name": "Eugenia Pop",
+    "email": "eugenia.pop@example.com",
+    "phone": "0722000010",
+    "address": "Strada Primaverii, nr. 10",
+    "city": "Bucuresti",
+    "state": "Bucuresti",
+    "position": "Tester"
+  }
+]
